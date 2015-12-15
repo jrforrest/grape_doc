@@ -1,3 +1,5 @@
+using Subclasses
+
 module GrapeDoc 
   class DOCGenerator 
     attr_accessor :resources, 
